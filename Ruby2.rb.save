@@ -1,0 +1,10 @@
+
+angkaPertama = 3 #camelcase 
+angkaKedua = 4
+
+puts angkaPertama + angkaKedua
+
+kataPertama = "Ruby"
+kataKedua = "Robot"
+
+puts kataPertama + kataa
